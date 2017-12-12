@@ -14,7 +14,7 @@ def countNumbers(nums):
 
 
 def packNumbers(arrNum):
-    def formalList(x):
+    def formatList(x):
         elementsplit = x.split(":")
         if elementsplit[1] == "1":
             return int(elementsplit[0])
