@@ -19,7 +19,7 @@ def packNumbers(arrNum):
         if elementsplit[1] == "1":
             return int(elementsplit[0])
         else:
-            return elementsplit
+            return elementsplit[0]+":"+elementsplit[1]
 
     if len(arrNum) > 0:
         arrCounted = countNumbers(arrNum)
