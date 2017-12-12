@@ -31,13 +31,17 @@ Using the console.log command, print the lucky floor number.
 Sample Input
 
 12
+
 Sample Output
 
 15
+
 Explanation
 
 Given , we need to find the corresponding lucky floor number. The following chart shows the first twelve real and lucky floor numbers:
 
 Real:   1  2  3  4  5  6  7  8  9  10  11  12
+
 Lucky:  1  2  3  5  6  7  8  9  10 11  12  15
+
 Because  is the twelfth lucky floor number, we print  on a new line.
