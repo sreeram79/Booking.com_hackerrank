@@ -1,5 +1,5 @@
 # Booking.com_hackerrank
-#Problem 1 : packNumbers
+# Problem 1 : packNumbers
 Given an array of integers, pack neighbouring numbers that are the same as below:
 
 For example, this
